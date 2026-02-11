@@ -1,124 +1,169 @@
-🚀 NeetCode 150 – Structured DSA Mastery
+🚀 NeetCode 150 | Algorithmic Mastery in Python
+<p align="center"> <b>Structured DSA training for Software & AI Engineering excellence.</b> </p> <p align="center">
 
-This repository documents my systematic journey through the NeetCode 150, a curated set of high-impact Data Structures and Algorithms problems frequently asked in technical interviews at top tech companies.
 
-Rather than just solving problems, this repository focuses on:
 
-Writing clean, production-quality C++ code
 
-Applying optimal time and space complexity
 
-Understanding patterns behind problems
 
-Strengthening algorithmic intuition
 
-Building interview-ready problem-solving skills
 
-🎯 Objective
+</p>
+🧠 About
 
-As a Computer Science student, my goal is not only to solve problems but to:
+This repository documents my structured journey through the NeetCode 150 — a curated set of high-impact algorithm problems frequently asked in technical interviews.
 
-Develop strong fundamentals in core data structures
+This is not a problem dump.
 
-Master algorithmic patterns used in interviews
+It is a deliberate effort to build:
 
-Improve code clarity and optimization
+Strong algorithmic foundations
 
-Prepare for internships, research opportunities, and full-time roles
+Pattern recognition ability
 
-Build long-term consistency in competitive problem solving
+Optimization mindset
 
-This repository serves as a public record of that growth.
+Clean and readable Python code
+
+Engineering-level problem-solving skills
+
+📊 Progress Overview
+
+🔢 Total Problems Solved: X / 150
+📈 Completion: X%
+
+(Update X manually or automate later using GitHub Actions if desired.)
+
+🗂 Pattern Index (Engineering-Oriented)
+🟢 Arrays & Hashing
+
+Two Sum
+
+Contains Duplicate
+
+Product of Array Except Self
+
+🟡 Two Pointers
+
+Valid Palindrome
+
+3Sum
+
+Container With Most Water
+
+🔵 Sliding Window
+
+Longest Substring Without Repeating Characters
+
+Minimum Window Substring
+
+🟣 Stack
+
+Valid Parentheses
+
+Daily Temperatures
+
+Min Stack
+
+🌳 Trees
+
+Invert Binary Tree
+
+Maximum Depth of Binary Tree
+
+Validate BST
+
+🌐 Graphs
+
+Number of Islands
+
+Clone Graph
+
+Course Schedule
+
+🧠 Dynamic Programming
+
+Climbing Stairs
+
+Coin Change
+
+Longest Increasing Subsequence
+
+(Expand as you solve more — this section looks very impressive to recruiters.)
 
 🛠 Tech Stack
 
-Language: C++
+Language: Python 3
 
-Concepts Covered:
+Core Libraries: collections, heapq, deque
 
-Arrays & Hashing
+Concepts:
 
-Two Pointers
+BFS / DFS
 
-Sliding Window
+Recursion
 
-Stack & Monotonic Stack
+Memoization
 
-Binary Search
+Greedy
 
-Linked Lists
+Graph traversal
 
-Trees & Binary Search Trees
+Optimization strategies
 
-Heaps / Priority Queues
+🧩 Problem-Solving Philosophy
 
-Backtracking
+For each problem:
 
-Graph Algorithms (BFS, DFS, Topological Sort)
+Start with brute-force baseline
 
-Dynamic Programming
+Identify underlying pattern
 
-Greedy Algorithms
+Optimize time complexity
 
-Advanced Graph Techniques
+Optimize space complexity
 
-🧠 Problem-Solving Approach
+Write clean, Pythonic implementation
 
-For each problem, I focus on:
+Target mindset:
 
-Identifying the underlying pattern
+O(n²) → O(n log n) → O(n)
 
-Analyzing brute-force vs optimized solutions
+Readable > Clever
 
-Improving time and space complexity
+Understand > Memorize
 
-Writing readable, maintainable code
+🤖 AI Engineer Positioning
 
-Avoiding unnecessary library shortcuts when learning fundamentals
+As a Computer Science student focusing on Machine Learning and AI, strong DSA foundations are critical for:
 
-Where applicable, I aim for:
+Writing efficient ML pipelines
 
-O(n) over O(n²)
+Optimizing data preprocessing
 
-O(log n) via Binary Search
+Understanding computational complexity
 
-Space optimization techniques
+Building scalable backend systems for AI products
 
-Clean recursive and iterative implementations
+Performing well in technical interviews
 
-📈 Progress Tracker
-Topic	Status
-Arrays & Hashing	🟩 In Progress
-Two Pointers	🟩 In Progress
-Sliding Window	🟨 Ongoing
-Stack	⬜ Pending
-Trees	⬜ Pending
-Graphs	⬜ Pending
-Dynamic Programming	⬜ Pending
+This repository strengthens the algorithmic core required for becoming a high-performance AI Engineer.
 
-(Updated regularly to reflect consistency.)
+📈 What This Repository Demonstrates
 
-📊 What This Repository Demonstrates
+✔ Structured learning discipline
+✔ Deep understanding of algorithmic patterns
+✔ Clean Python implementation
+✔ Optimization mindset
+✔ Interview-focused preparation
+✔ Engineering growth mindset
 
-✔ Strong foundation in Data Structures
-✔ Understanding of algorithmic design patterns
-✔ Consistent practice discipline
-✔ Ability to optimize solutions
-✔ Interview preparation mindset
-✔ Clean and readable C++ coding style
+🎯 Long-Term Vision
 
-🌱 Continuous Improvement
+This repository is part of my broader roadmap to:
 
-This repository will continue evolving as I:
+Become a strong AI / Software Engineer
 
-Refactor older solutions
+Build scalable AI systems
 
-Add complexity analysis
-
-Document key patterns
-
-Improve optimization techniques
-
-🤝 Let’s Connect
-
-If you're preparing for coding interviews or working on algorithmic problem solving, feel free to connect or collaborate.
+Combine Machine Learning with solid engineering fundamentals
